@@ -3,9 +3,9 @@ Make sure to click "Add to path" when installing python.
 
 Type "cmd" in your windows search bar and open Command Prompt.
 
-Type pip install pygame and hit Enter.
+Type "pip install pygame" and hit Enter.
 Wait for finish.
-Type pip install keyboard and hit Enter.
+Type "pip install keyboard" and hit Enter.
 Wait for finish.
 
 Close command prompt and double click on the GamepadProgrammerDemo file.
